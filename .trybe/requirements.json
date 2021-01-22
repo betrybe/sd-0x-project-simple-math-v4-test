@@ -1,0 +1,19 @@
+{
+  "requirements": [
+    {
+      "identifier": "test_sum",
+      "description": "Sum",
+      "bonus": false
+    },
+    {
+      "identifier": "test_multiply",
+      "description": "Multiply",
+      "bonus": true
+    },
+    {
+      "identifier": "test_power",
+      "description": "Power",
+      "bonus": false
+    }
+  ]
+}

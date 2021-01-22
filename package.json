@@ -1,0 +1,22 @@
+{
+  "name": "sd-0x-project-simple-math-v4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betrybe/sd-0x-project-simple-math-v4.git"
+  },
+  "author": "betrybe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betrybe/sd-0x-project-simple-math-v4/issues"
+  },
+  "homepage": "https://github.com/betrybe/sd-0x-project-simple-math-v4#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
